@@ -13,7 +13,7 @@ System.out.println("given char is vowel"+" "+vc);
 }
 else 
 {
-System.out.println("given char is consonent"+" "+vc);
+System.out.println("given char is consonant"+" "+vc);
 }
 }
 }
